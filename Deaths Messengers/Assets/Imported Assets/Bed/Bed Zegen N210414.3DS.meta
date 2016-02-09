@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: 73b1506abd5dc4ff2bd70a57fceaf2e2
+timeCreated: 1454030684
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box001
+    100004: ChamferBox
+    100006: Cloth_Sha1
+    100008: Cloth_Sha2
+    100010: Cloth_Shap
+    100012: Sphere025
+    100014: Sphere026
+    100016: Sphere027
+    100018: Sphere028
+    100020: sub01
+    100022: sub011
+    100024: sub02
+    100026: sub021
+    100028: sub03
+    400000: //RootNode
+    400002: Box001
+    400004: ChamferBox
+    400006: Cloth_Sha1
+    400008: Cloth_Sha2
+    400010: Cloth_Shap
+    400012: Sphere025
+    400014: Sphere026
+    400016: Sphere027
+    400018: Sphere028
+    400020: sub01
+    400022: sub011
+    400024: sub02
+    400026: sub021
+    400028: sub03
+    2300000: Box001
+    2300002: ChamferBox
+    2300004: Cloth_Sha2
+    2300006: Sphere025
+    2300008: Sphere026
+    2300010: Sphere027
+    2300012: Sphere028
+    2300014: sub01
+    2300016: sub011
+    2300018: sub02
+    2300020: sub021
+    2300022: sub03
+    3300000: Box001
+    3300002: ChamferBox
+    3300004: Cloth_Sha2
+    3300006: Sphere025
+    3300008: Sphere026
+    3300010: Sphere027
+    3300012: Sphere028
+    3300014: sub01
+    3300016: sub011
+    3300018: sub02
+    3300020: sub021
+    3300022: sub03
+    4300000: sub01
+    4300002: sub02
+    4300004: sub03
+    4300006: sub011
+    4300008: sub021
+    4300010: Cloth_Sha2
+    4300012: Sphere028
+    4300014: Sphere027
+    4300016: Sphere025
+    4300018: Sphere026
+    4300020: ChamferBox
+    4300022: Box001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
